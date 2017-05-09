@@ -61,6 +61,8 @@ Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
+WindowsNoEditor/*
+
 # =========================
 # Operating System Files
 # =========================
